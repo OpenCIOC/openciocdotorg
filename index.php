@@ -91,6 +91,7 @@ include("includes/incHeader.php");
 			</p>
 			<p><a class="btn btn-default" href="user-docs.php" role="button">View details &raquo;</a></p>
 		</div>
+		<div class="clearfix visible-md-block visible-lg-block"></div>
 		<div class="col-md-4 col-sm-6">
 			<h2>More Resources...</h2>
 			<p>
