@@ -1,0 +1,67 @@
+@CHARSET "ISO-8859-1";
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+#mainLogo {
+	padding:20px 15px 5px;
+}
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+a {
+    color: #0080bc;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .open > a
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    background-image: linear-gradient(to bottom, #0080bc 0px, #7EC1E0 100%);
+}
+
+.btn-primary {
+    background-image: linear-gradient(to bottom, #7EC1E0 0px, #0080bc 100%);
+    border-color: #23527c;
+}
+
+.btn-primary:focus, .btn-primary:hover {
+    background-color: #0181BC;
+}
+
+.callout {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eee;
+    border-image: none;
+    border-radius: 3px;
+    border-style: solid;
+    border-width: 1px 1px 1px 5px;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.callout-info {
+    border-left-color: #0080bc;
+}
+
+ul.basic-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+ul.basic-list > li {
+  position: relative;
+  margin-bottom: 10px
+}
