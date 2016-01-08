@@ -6,7 +6,9 @@ body {
   padding-bottom: 20px;
 }
 #mainLogo {
-	padding:20px 15px 5px;
+	padding: 20px 15px 5px;
+	max-height: 250px;
+	margin: auto;
 }
 .jumbotron .h1, .jumbotron h1 {
     font-size: 42px;

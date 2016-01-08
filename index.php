@@ -15,7 +15,7 @@ include("includes/incHeader.php");
        			<p><a class="btn btn-primary btn-lg" href="about.php" role="button">Learn more &raquo;</a></p>
 			</div>
 			<div class="col-md-4 text-center">
-				<img id="mainLogo" src="img/cioc_logo_open_sm.png">
+				<img id="mainLogo" src="img/cioc_logo_open_sm.png" class="img-responsive">
        		</div>
        	</div>
       </div>
