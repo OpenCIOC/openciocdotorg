@@ -212,7 +212,8 @@ include ("includes/incHeader.php");
 	</div>
 	
 	<h4>Adding a Community Search</h4>
-	<p>Communities can't be searched on their own, but can be added to Taxonomy Code or Publication Code Listing Types using <code>location=&quot;Community Name&quot;</code>. You must know the <em>exact name</em> of the Community in the target database to create a working search. Where there are multiple Communities with the same name in the database, you can add the Province/State/Country Code for clarity; for example <code>location=&quot;Burlington|ON&quot;</code> would allow you to distinguish it from <code>location=&quot;Burlington|VT&quot;</code></p>
+	<p>Communities can't be searched on their own, but can be added to Taxonomy Code or Publication Code Listing Types using <code>location=&quot;Community Name&quot;</code> or <code>servicearea=&quot;Community Name&quot;</code>. You cannot use both Location and Service Area criteria in the same request.</p>
+	<p>You must know the <em>exact name</em> of the Community in the target database to create a working search. Where there are multiple Communities with the same name in the database, you can add the Province/State/Country Code for clarity; for example <code>location=&quot;Burlington|ON&quot;</code> would allow you to distinguish it from <code>location=&quot;Burlington|VT&quot;</code></p>
 	
 	<?php endif; ?>
 
