@@ -128,7 +128,7 @@ include ("includes/incHeader.php");
 	</div>
 
 	<h4>Newest Records</h4>
-	<p>This is the default listing type. You can choose it explicitly using <code>type=&quot;newest&quot;</code>. By default, 
+	<p>This is the default listing type. You can choose it explicitly using <code>type=&quot;newest&quot;</code>, but it is not necessary. By default, the newest <?=$domain == 'volbasic'? 5 : 15 ?> records are shown and include
 		<?php if($domain == 'volbasic') : ?>
     	the title of the Position, the posting Agency,
 		<?php elseif($domain == 'cicbasic') : ?>
@@ -166,7 +166,7 @@ include ("includes/incHeader.php");
 	</div>
 
 	<h4>Specific Organanization</h4>
-	<p>To list all the, you must have the Record Number (&quot;NUM&quot;) of the posting Agency (organization) from the Online Resources database under which the Opportunities are posted. Use <code>type=&quot;org&quot;</code> and <code>num=&quot;AAA1111&quot;</code> (where <em>AAA1111</em> is the Record Number).</p>
+	<p>To list up to 30 Opportunities from a specific organization, you must have the Record Number (&quot;NUM&quot;) of the posting Agency (organization) from the Online Resources database. Use <code>type=&quot;org&quot;</code> and <code>num=&quot;AAA1111&quot;</code> (where <em>AAA1111</em> is the Record Number).</p>
 	
 	<div class="callout">[<?=$strShortCodeStart?>
 		url=&quot;https://test.cioc.ca&quot;
@@ -177,7 +177,7 @@ include ("includes/incHeader.php");
 	</div>
 	
 	<h4>Specific Category</h4>
-	<p>To list all Opportunities that fall under a specific category (&quot;Area of Interest&quot;) you must have the special <em>Code</em> for that category - the name will not work. Super Users in the Online Resources can find the Code listing, or change the Codes for each Area of Interest, from <strong>Setup &gt; Classification Systems &gt; Specific Areas of Interest</strong>. If the database is using the standard list of Categories, the Code can be found from the <a href="https://github.com/OpenCIOC/volunteerclassifications/blob/master/csv/interest.csv" target="_blank">Open Data Listing of Interests</a></p>
+	<p>To list up to 30 Opportunities that fall under a specific category (&quot;Area of Interest&quot;) you must have the special <em>Code</em> for that category - the name will not work. Super Users in the Online Resources can find the Code listing, or change the Codes for each Area of Interest, from <strong>Setup &gt; Classification Systems &gt; Specific Areas of Interest</strong>. If the database is using the standard list of Categories, the Code can be found from the <a href="https://github.com/OpenCIOC/volunteerclassifications/blob/master/csv/interest.csv" target="_blank">Open Data Listing of Interests</a></p>
 	
 	<div class="callout">[<?=$strShortCodeStart?>
 		url=&quot;https://test.cioc.ca&quot;
@@ -190,7 +190,7 @@ include ("includes/incHeader.php");
 	<?php elseif($domain == 'cicbasic') : ?>
 	
 	<h4>Specific Taxonomy Code (Service Category)</h4>
-	<p>Select a group of records based on the type of service they provide using <code>type=&quot;taxonomy&quot;</code> and <code>code=&quot;BD-1800&quot;</code> where the code is a valid Taxonomy Code from <a href="https://211taxonomy.org/">211taxonomy.org</a>. Any level of the Taxonomy may be used, but there must be a record at or below this branch of the Taxonomy to return results. Availability of this feature depends on the target database being configured to use this Taxonomy. This query does not current support linked Terms or multiple Terms.</p>
+	<p>Select a group of up to 50 records based on the type of service they provide using <code>type=&quot;taxonomy&quot;</code> and <code>code=&quot;BD-1800&quot;</code> where the code is a valid Taxonomy Code from <a href="https://211taxonomy.org/">211taxonomy.org</a>. Any level of the Taxonomy may be used, but there must be a record at or below this branch of the Taxonomy to return results. Availability of this feature depends on the target database being configured to use this Taxonomy. This query does not current support linked Terms or multiple Terms.</p>
 
 	<div class="callout">[<?=$strShortCodeStart?>
 		url=&quot;https://test.cioc.ca&quot;
@@ -201,7 +201,7 @@ include ("includes/incHeader.php");
 	</div>
 
 	<h4>Specific Publication Code</h4>
-	<p>In databases using Publication Codes to create lists of records, listings by Publication Code are made using <code>type=&quot;pub&quot;</code> and <code>code=&quot;MY-CODE&quot;</code> (substituting the appropriate Publication Code). There is no way to search by a Publication's General Headings at this time.</p>
+	<p>In databases using Publication Codes to create lists of records, listings of up to 50 records by Publication Code are made using <code>type=&quot;pub&quot;</code> and <code>code=&quot;MY-CODE&quot;</code> (substituting the appropriate Publication Code). There is no way to search by a Publication's General Headings at this time.</p>
 	
 	<div class="callout">[<?=$strShortCodeStart?>
 		url=&quot;https://test.cioc.ca&quot;
