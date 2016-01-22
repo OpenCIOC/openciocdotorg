@@ -58,6 +58,10 @@ a {
     border-left-color: #0080bc;
 }
 
+.callout-danger {
+    border-left-color: #A94442;
+}
+
 ul.basic-list {
   list-style-type: none;
   padding-left: 20px;
