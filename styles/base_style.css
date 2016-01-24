@@ -71,3 +71,7 @@ ul.basic-list > li {
   position: relative;
   margin-bottom: 10px
 }
+
+.panel-heading h3 {
+	margin-top: 10px;
+}

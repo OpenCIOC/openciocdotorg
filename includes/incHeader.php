@@ -61,6 +61,7 @@
 			</li>
 			<li<?php if ($strSection=='Resources'): ?> class="active"<?php endif ?>><a href="resources.php">Resources</a></li>
 			<li<?php if ($strSection=='Contributors'): ?> class="active"<?php endif ?>><a href="contributors.php">Contributors</a></li>
+			<li<?php if ($strSection=='Directory'): ?> class="active"<?php endif ?>><a href="directory.php">Directory</a></li>
             <li><a href="http://www.kclsoftware.com/contact-us/">Contact</a></li>
           </ul>
         </div><!--/.nav-collapse -->
