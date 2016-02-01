@@ -97,8 +97,6 @@ include ("includes/incHeader.php");
 	<p>The following section outlines the options available for customizing the shortcodes for this plug-in. However, the easiest way to accurately configure a shortcode is by using the shortcode generator available from the target Online Resources database. You must already have an API Key to use the shortcode generator tool.</p>
 	<div class="callout">
 	Access the shortcode generator for your site at <em>https://<mark>yoursite.cioc.ca</mark>/shortcodes</em>
-	<br>Make life easier for partners you are sending a key to with a link that already includes their key:
-	<br>
 	</div>
 	<p>Make life easier for partners you are sending an API Key to with a link that already includes their Key:</p>
 	<div class="callout">

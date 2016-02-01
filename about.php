@@ -97,13 +97,7 @@ include ("includes/incHeader.php");
 	</p>
 
 	<h2>Getting Project Updates</h2>
-	<p>
-		The OpenCIOC project began in early 2015, and it is expected that all
-		projects will be avaialble by the end of 2015. Information on the
-		status of each individual product will be posted on the project
-		information page for that product, and further updates are avialable
-		through <a href="http://new.kclsoftware.com/category/cioc-software/">KCL's
-			blog</a>
+	<p>The OpenCIOC project began in early 2015, and it is expected that all projects will be avaialble by the end of January 2016. Information on the status of each individual product will be posted on the project information page for that product, and further updates are avialable through <a href="http://new.kclsoftware.com/category/cioc-software/">KCL's blog</a>
 	</p>
 
 </div>

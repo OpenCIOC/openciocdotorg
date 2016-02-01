@@ -57,6 +57,7 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://haliburtonchildren.cioc.ca" target="_blank">Haliburton Children's Services</a>
 						<a class="list-group-item" href="https://haltonchildcare.cioc.ca/csrch.asp" target="_blank">Halton Child Care Services Directory</a>
 						<a class="list-group-item" href="https://halton.cioc.ca" target="_blank">Halton Community Services Directory</a>
+						<a class="list-group-item" href="https://regionofwaterloo.cioc.ca" target="_blank">iSearchMyCommunity.ca - Region of Waterloo</a>
 						<a class="list-group-item" href="https://brucecounty.cioc.ca" target="_blank">Info Bruce County</a>
 						<a class="list-group-item" href="https://centraleastontario.cioc.ca" target="_blank">Info Central East Ontario</a>
 						<a class="list-group-item" href="https://greycounty.cioc.ca" target="_blank">Info Grey County</a>
@@ -81,8 +82,9 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="http://www.snipeel.ca/" target="_blank">Peel Special Needs Services Directory</a>
 						<a class="list-group-item" href="https://simcoebeststart.cioc.ca/volunteer/" target="_blank">Simcoe Best Start</a>
 						<a class="list-group-item" href="https://fallprevention-sm.cioc.ca" target="_blank">Simcoe Muskoka Integrated Fall Strategy</a>
+						<a class="list-group-item" href="https://waterloo.cioc.ca" target="_blank">Social Development Centre Waterloo Region - Community Resource Directory</a>
+						<a class="list-group-item" href="https://waterloo.cioc.ca?UseCICVw=19" target="_blank">Social Development Centre Waterloo Region - Settlement Supports Directory</a>
 						<a class="list-group-item" href="https://whitby.durham.cioc.ca" target="_blank">Town of Whitby - Community Services</a> 
-						<a class="list-group-item" href="https://regionofwaterloo.cioc.ca" target="_blank">iSearchMyCommunity.ca - Region of Waterloo</a>
 						<a class="list-group-item" href="https://renfrewcountyconnections.cioc.ca" target="_blank">Renfrew County Connections</a>
 						<a class="list-group-item" href="https://rsfottawa.cioc.ca" target="_blank">Répertoire des services en français d'Ottawa</a>
 						<a class="list-group-item" href="https://scsottawa.cioc.ca" target="_blank">Service Coordination des services - Community Programs (Ottawa)</a> 
@@ -148,7 +150,7 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://perthhuron.cioc.ca/volunteer/" target="_blank">Volunteer Connection Perth &amp; Huron Counties</a>
 						<a class="list-group-item" href="https://simcoecounty.cioc.ca/volunteer/" target="_blank">Volunteer Connection Simcoe County</a>
 						<a class="list-group-item" href="https://southgeorgianbay.cioc.ca/volunteer/" target="_blank">Volunteer Connection South Georgian Bay</a>
-						<a class="list-group-item" href="https://volunteercambridge.cioc.ca/volunteer/" target="_blank">Volunteer Cambridge</a>
+						<a class="list-group-item" href="https://volunteercambridge.cioc.ca/volunteer/" target="_blank">Volunteer Centre of Cambridge and North Dumfries</a>
 						<a class="list-group-item" href="https://durham.cioc.ca/volunteer/" target="_blank">Volunteer Durham</a>
 						<a class="list-group-item" href="https://communitylinks.cioc.ca/volunteer/" target="_blank">Volunteer Guelph</a>
 						<a class="list-group-item" href="https://seniorsengaged.cioc.ca/volunteer/" target="_blank">Volunteer Guelph - Senior's Engaged</a>

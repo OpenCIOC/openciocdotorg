@@ -12,11 +12,15 @@ include("includes/incHeader.php");
       			<p>
       			<?php include("snippets/basic-intro.html")?> 
       			The CIOC Software and Data Suite supports information and referral services, volunteer matching, human services and business directories, and even tools for community collaboration on software development and classification systems.</p>
-       			<p><a class="btn btn-primary btn-lg" href="about.php" role="button">Learn more &raquo;</a></p>
+       			<p>
+					<a class="btn btn-primary btn-lg" style="margin-bottom:0.5em;" href="about.php" role="button">Learn More About the Open CIOC Project &raquo;</a>
+					<a class="btn btn-primary btn-lg" style="margin-bottom:0.5em;" href="http://www.kclsoftware.com/cioc-software-support/" role="button">Hosted Solutions &raquo;</a><br>
+				</p>
 			</div>
 			<div class="col-md-4 text-center">
 				<img id="mainLogo" src="img/cioc_logo_open_sm.png" class="img-responsive">
        		</div>
+
        	</div>
       </div>
     </div>
@@ -51,7 +55,7 @@ include("includes/incHeader.php");
 			<p>
 			<?php include("snippets/ot-desc.html")?>
 			</p>
-			<p><a class="btn btn-default" href="open-data.php" role="button">View details &raquo;</a></p>
+			<p><a class="btn btn-default" href="offline-tools.php" role="button">View details &raquo;</a></p>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-md-4 col-sm-6">

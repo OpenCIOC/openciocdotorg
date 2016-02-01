@@ -15,7 +15,7 @@ include("includes/incHeader.php");
 	</div>
 
 	<div class="container">
-		<div class="callout callout-info">The source code repository for this project is available at <a href="https://bitbucket.org/cioc/communityrepository">https://bitbucket.org/cioc/communityrepository</a></div>
+		<div class="callout callout-info">The source code repository for this project is available at <a href="https://github.com/OpenCIOC/communityrepository">https://github.com/OpenCIOC/communityrepository</a></div>
 		<h2>About the Community Repository...</h2>
 		<p>The Community Repository software provides the following features:</p>
 		<ul>
@@ -29,7 +29,7 @@ include("includes/incHeader.php");
 	
 	<div class="container">
 	   	<div class="alert alert-info">
-	 		<strong>Looking for Documentation?</strong> if there is demand for it, we'll consider making additional documentation available. <a href="http://www.kclsoftware.com/contact-us/"></a>Let us know!
+	 		<strong>Looking for Documentation?</strong> if there is demand for it, we'll consider making additional documentation available. <a href="http://www.kclsoftware.com/contact-us/">Let us know!</a>
 		</div>
 	</div>
 	
