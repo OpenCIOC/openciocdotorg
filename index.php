@@ -13,7 +13,7 @@ include("includes/incHeader.php");
       			<?php include("snippets/basic-intro.html")?> 
       			The CIOC Software and Data Suite supports information and referral services, volunteer matching, human services and business directories, and even tools for community collaboration on software development and classification systems.</p>
        			<p>
-					<a class="btn btn-primary btn-lg" style="margin-bottom:0.5em;" href="about.php" role="button">Learn More About the Open CIOC Project &raquo;</a>
+					<a class="btn btn-primary btn-lg" style="margin-bottom:0.5em;" href="about.php" role="button">More about the OpenCIOC Project &raquo;</a>
 					<a class="btn btn-primary btn-lg" style="margin-bottom:0.5em;" href="http://www.kclsoftware.com/cioc-software-support/" role="button">Hosted Solutions &raquo;</a><br>
 				</p>
 			</div>

@@ -37,10 +37,11 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://itunes.apple.com/us/app/211-ontario-north/id680758294?mt=8" target="_blank">211 North - Mobile App (iOS)</a>
 						<a class="list-group-item" href="http://assistivedeviceexchange.ca" target="_blank">Assistive Device Exchange (Simcoe / Muskoka)</a>
 						<a class="list-group-item" href="https://infobarrie.cioc.ca" target="_blank">Barrie Public Library (Info Barrie)</a>
-						<a class="list-group-item" href="https://peel.cioc.ca/" target="_blank">Peel Community Services Directory</a>
+						<a class="list-group-item" href="https://peel.cioc.ca" target="_blank">Peel Community Services Directory</a>
 						<a class="list-group-item" href="https://simcoechildcare.cioc.ca/" target="_blank">Child Care in Simcoe County</a>
 						<a class="list-group-item" href="https://cklchildren.cioc.ca" target="_blank">City of Kawartha Lakes Children's Services</a>
 						<a class="list-group-item" href="https://haldimand.cioc.ca" target="_blank">Community Brant, Haldimand and Norfolk</a>
+						<a class="list-group-item" href="https://york.cioc.ca" target="_blank">Community Information and Volunteer Centre - York South</a>
 						<a class="list-group-item" href="https://communitylinks.cioc.ca" target="_blank">Community Information Guelph</a>
 						<a class="list-group-item" href="https://communityreach.cioc.ca" target="_blank">Community Reach (North Simcoe)</a>
 						<a class="list-group-item" href="https://southsimcoecic.cioc.ca" target="_blank">CONTACT South Simcoe</a>
@@ -86,18 +87,20 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://waterloo.cioc.ca?UseCICVw=19" target="_blank">Social Development Centre Waterloo Region - Settlement Supports Directory</a>
 						<a class="list-group-item" href="https://whitby.durham.cioc.ca" target="_blank">Town of Whitby - Community Services</a> 
 						<a class="list-group-item" href="https://renfrewcountyconnections.cioc.ca" target="_blank">Renfrew County Connections</a>
-						<a class="list-group-item" href="https://rsfottawa.cioc.ca" target="_blank">Répertoire des services en français d'Ottawa</a>
-						<a class="list-group-item" href="https://scsottawa.cioc.ca" target="_blank">Service Coordination des services - Community Programs (Ottawa)</a> 
+						<a class="list-group-item" href="https://rsfottawa.cioc.ca" target="_blank">R&eacute;pertoire des services en fran&ccedil;ais d'Ottawa</a>
+						<a class="list-group-item" href="https://scsottawa.cioc.ca" target="_blank">Service Coordination des services - Community Programs (Ottawa)</a>
+						<a class="list-group-item" href="https://york.cioc.ca" target="_blank">Settlement and Newcomer Services - York South</a>
+						<a class="list-group-item" href="https://york.cioc.ca" target="_blank">Seniors' Services - York South</a>
 						<a class="list-group-item" href="https://quinte.cioc.ca" target="_blank">Volunteer &amp; Information Quinte (Hastings and Prince Edward Counties)</a> 
 						<a class="list-group-item" href="http://www.yorkinfo.ca" target="_blank">York Info</a>
 					</div>
 					
-					<h3>Québec</h3>
+					<h3>Qu&eacute;bec</h3>
 					<div class="list-group">
 						<a class="list-group-item" href="https://grandby.cioc.ca" target="_blank">211 MRC Haute-Yamaska</a>
-						<a class="list-group-item" href="http://recherche.211quebecregions.ca" target="_blank">211 Québec Régions</a>
-						<a class="list-group-item" href="https://info-aines-mauricie.cioc.ca" target="_blank">Info-Aînés Mauricie</a>
-						<a class="list-group-item" href="https://vieautonomemonteregie.cioc.ca" target="_blank">Vie autonome Montérégie</a>
+						<a class="list-group-item" href="http://recherche.211quebecregions.ca" target="_blank">211 Qu&eacute;bec R&eacute;gions</a>
+						<a class="list-group-item" href="https://info-aines-mauricie.cioc.ca" target="_blank">Info-A&icirc;n&eacute;s Mauricie</a>
+						<a class="list-group-item" href="https://vieautonomemonteregie.cioc.ca" target="_blank">Vie autonome Mont&eacute;r&eacute;gie</a>
 					</div>
 					
 					<h3>New Brunswick</h3>
@@ -111,7 +114,7 @@ include("includes/incHeader.php");
 					<h3>Nova Scotia</h3>
 					<div class="list-group">
 						<a class="list-group-item" href="https://novascotia.cioc.ca/" target="_blank">Nova Scotia Connect</a>
-						<a class="list-group-item" href="https://valleyconnect.cioc.ca/" target="_blank">Annapolis Vallye Connect</a>
+						<a class="list-group-item" href="https://valleyconnect.cioc.ca/" target="_blank">Annapolis Valley Connect</a>
 						<a class="list-group-item" href="https://capebretonconnect.cioc.ca/" target="_blank">Cape Breton Connect</a>
 						<a class="list-group-item" href="https://fundyconnect.cioc.ca/" target="_blank">Fundy Connect</a>
 						<a class="list-group-item" href="https://highlandconnect.cioc.ca/" target="_blank">Highland Connect</a>
@@ -139,6 +142,7 @@ include("includes/incHeader.php");
 					<h3>Ontario</h3>
 					<div class="list-group">
 						<a class="list-group-item" href="https://infobarrie.cioc.ca/volunteer/" target="_blank">Barrie Public Library (Info Barrie) - Volunteer Directory</a>
+						<a class="list-group-item" href="https://york.cioc.ca/volunteer/" target="_blank">Community Information and Volunteer Centre - York South</a>
 						<a class="list-group-item" href="https://communityreach.cioc.ca/volunteer/" target="_blank">Community Reach (North Simcoe) - Volunteer Directory</a>
 						<a class="list-group-item" href="https://fourinfo.cioc.ca/volunteer/" target="_blank">FourInfo (Haliburton, Kawartha Lakes, Northumberland, Peterborough) - Volunteer Directory</a>
 						<a class="list-group-item" href="https://orillia.cioc.ca/volunteer/" target="_blank">Information Orillia - Volunteer Directory</a>
