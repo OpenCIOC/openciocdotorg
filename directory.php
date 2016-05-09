@@ -37,7 +37,6 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://itunes.apple.com/us/app/211-ontario-north/id680758294?mt=8" target="_blank">211 North - Mobile App (iOS)</a>
 						<a class="list-group-item" href="http://assistivedeviceexchange.ca" target="_blank">Assistive Device Exchange (Simcoe / Muskoka)</a>
 						<a class="list-group-item" href="https://infobarrie.cioc.ca" target="_blank">Barrie Public Library (Info Barrie)</a>
-						<a class="list-group-item" href="https://peel.cioc.ca" target="_blank">Peel Community Services Directory</a>
 						<a class="list-group-item" href="https://simcoechildcare.cioc.ca/" target="_blank">Child Care in Simcoe County</a>
 						<a class="list-group-item" href="https://cklchildren.cioc.ca" target="_blank">City of Kawartha Lakes Children's Services</a>
 						<a class="list-group-item" href="https://haldimand.cioc.ca" target="_blank">Community Brant, Haldimand and Norfolk</a>
@@ -79,6 +78,7 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://northumberlandchildren.cioc.ca" target="_blank">Northumberland Children's Services</a>
 						<a class="list-group-item" href="https://odacdirectory.cioc.ca" target="_blank">Orillia &amp; District Arts Council Member Directory</a>
 						<a class="list-group-item" href="https://peel.cioc.ca/" target="_blank">Peel Community Services Directory</a>
+						<a class="list-group-item" href="https://peelchildcare.cioc.ca/" target="_blank">Peel Early Learning and Child Care Directory</a>
 						<a class="list-group-item" href="https://peelfamilyconnect.cioc.ca/" target="_blank">Peel Family Connections</a>
 						<a class="list-group-item" href="http://www.snipeel.ca/" target="_blank">Peel Special Needs Services Directory</a>
 						<a class="list-group-item" href="https://simcoebeststart.cioc.ca/volunteer/" target="_blank">Simcoe Best Start</a>
