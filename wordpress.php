@@ -11,10 +11,9 @@ include ("includes/incHeader.php");
   			<?php include("snippets/wp-desc.html")?>
   			Don't use WordPress? Re-use the Open Source PHP Code from these plug-ins to do integration in any PHP-based website or CMS.
   		</p>
-  		<p>
-  			<a href="wordpress-ref-feed.php?type=cicbasic" class="btn btn-primary btn-lg">User Reference - Community Information Feed Plug-in &raquo;</a>
-  			<a href="wordpress-ref-feed.php?type=volbasic" class="btn btn-primary btn-lg">User Reference - Volunteer Opportunities Feed Plug-in &raquo;</a>
-  		</p>
+  		<p><a href="wordpress-ref-feed.php?type=cicbasic" class="btn btn-primary btn-lg">User Reference - Community Information Feed Plug-in &raquo;</a></p>
+		<p><a href="wordpress-ref-feed.php?type=volbasic" class="btn btn-primary btn-lg">User Reference - Volunteer Opportunities Feed Plug-in &raquo;</a></p>
+		<p><a href="wordpress-ref-full.php" class="btn btn-primary btn-lg">User Reference - CIOC Remote Search and Details Plug-in &raquo;</a></p>
 	</div>
 </div>
 

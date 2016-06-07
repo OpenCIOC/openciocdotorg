@@ -24,7 +24,7 @@ include("includes/incHeader.php");
 		<p>Before the OpenCIOC Project, end-user documentation was avaialble only in private websites and within the applications themselves. As part fo the Open CIOC project, we will be gradually migrating these help files to publicly available documentation repositories.</p>
 		<div class="callout callout-info">Published user manuals are available at:
 			<ul>
-				<li><a href="https://ciocapidocs.readthedocs.org">https://ciocapidocs.readthedocs.org (CIOC API Reference)</a></li>
+				<li><a href="https://ciocapidocs.readthedocs.io">https://ciocapidocs.readthedocs.io (CIOC API Reference)</a></li>
 				<li><a href="wordpress.php">http://www.opencioc.org/wordpress.php (WordPress Plugin References)</a></li>
 			</ul>
 		</div>
