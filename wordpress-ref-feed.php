@@ -42,8 +42,8 @@ include ("includes/incHeader.php");
 	<div class="callout callout-danger">
 		This documentation is for the following versions:
 		<ul>
-			<li>CIOC Volunteer Opportunities Feed 1.0.2</li>
-			<li>CIOC Community Information Feed 1.0.1</li>
+			<li>CIOC Volunteer Opportunities Feed 1.1</li>
+			<li>CIOC Community Information Feed 1.1</li>
 		</ul>
 		
 		Please ensure you are using the most up-to-date version of the plug-in.
@@ -69,12 +69,12 @@ include ("includes/incHeader.php");
 
 	<a name="install"></a>
 	<h2>Installing the Plug-in</h2>
-	<p>Currently, the WordPress Plug-ins are available only through manual install by <a href="<?=$strDownloadZipURL?>">downloading the appropriate zip file(s)</a> from the project repository. Use the <em>Upload Plugin</em> option from within WordPress to install the zip file, then Activate the plug-in to begin using it. Information on manual plug-in installation is available from  <a href="https://codex.wordpress.org/Managing_Plugins">codex.wordpress.org/Managing_Plugins</a></p>
+	<p>It is strongly recommended that these plugins be installed through a search of plugins available from WordPress.org. To find the plugins, simply click "Add New" plugin and then search for "CIOC". The WordPress Plug-ins are available as a manual install by <a href="<?=$strDownloadZipURL?>">downloading the appropriate zip file(s)</a> from the project repository, but this makes updates more challenging and is not recommended. To manually install, use the <em>Upload Plugin</em> option from within WordPress to install the zip file, then Activate the plug-in to begin using it. Information on manual plug-in installation is available from  <a href="https://codex.wordpress.org/Managing_Plugins">codex.wordpress.org/Managing_Plugins</a></p>
 	<div class="callout callout-info">
 		The code repositories for this project are available at:
 		<ul>
 			<li><a href="https://github.com/OpenCIOC/ciocwordpressfeed">https://github.com/OpenCIOC/ciocwordpressfeed</a></li>
-			<li><em>Coming Soon...</em> these plug-ins will be submitted to <a href="https://wordpress.org">WordPress.org</a> to allow for direct download from within WordPress sites.</li>
+			<li>Plug-ins and the related plugin code is also avialable through <a href="https://wordpress.org">WordPress.org</a>.</li>
 		</ul>
 	</div>
 

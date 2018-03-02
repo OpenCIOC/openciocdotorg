@@ -27,7 +27,7 @@ include( "includes/incHeader.php" );
 	<div class="callout callout-danger">
 		This documentation is for the following versions:
 		<ul>
-			<li>CIOC Remote Search and Details 0.0.4 (Beta)</li>
+			<li>CIOC Remote Search and Details 1.1</li>
 		</ul>
 
 		Please ensure you are using the most up-to-date version of the plug-in.
