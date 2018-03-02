@@ -13,14 +13,17 @@ include("includes/incHeader.php");
 		</div>
 	</div>
 
-	<?php include("snippets/working-on-it.html")?>
+	<div class="container">
+        <div class="alert alert-info">
+            The Client Tracker Software is not currently avaialable as an Open Source Project. If you are interested in using the Client Tracker Application, you can still obtain it as a <strong><a href="http://www.kclsoftware.com/cioc-software-support/">hosted solution</a></strong>. If you are interested in sponsoring the project with funding or other resources to support the work required for this application to become available as an Open Source project, please <a href="http://www.kclsoftware.com/contact-us/">contact us!</a>.
+        </div>
+    </div>
 	
 	<div class="container">
 		<h1>Feature Sheet</h1>
 
 		<h2>Detailed Contact Tracking</h2>
 		<ul>
-		
 		    <li>Follow-up tracking system</li>
 		    <li>Automatically generated Time Logs, with the ability for administrators to perform manual error correction to help prevent statistical anomalies in reporting</li>
 		    <li>The ability to pause and resume a request, or to close and re-open a request</li>

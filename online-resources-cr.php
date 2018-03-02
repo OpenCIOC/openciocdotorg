@@ -1,20 +1,31 @@
 <?php
-$strTitle = "Community Resource Module";
+$strTitle = "Connecting Communities: communityinfo.online";
 $strSection = "Projects";
 include("includes/incHeader.php");
 ?>
 
 	<div class="jumbotron">
 		<div class="container">
-			<h1><?=$strTitle?></h1>
-  			<p>
-  			<?php include("snippets/cr-mod-desc.html")?>
-  			Part of the <a href="online-resources.php">CIOC Online Resources Software</a>.
-  			</p>
+        	<h1><?=$strTitle?></h1>
+        	<div class="row">
+				<div class="col-sm-6 col-md-8">
+                    <p>
+                    <?php include("snippets/cr-mod-desc.html")?>
+                    This module is a feature of the CIOC <a href="online-resources.php">Online Resources</a> application.
+                    </p>
+                </div>
+                <div class="col-sm-6 col-md-4">
+	                <img src="img/community-info-online.png" class="img-responsive padding-top-bottom-20" alt="Connecting Communities: communityinfo.online" style="display:block; margin:auto;"/>
+                </div>
+			</div>
 		</div>
 	</div>
 
-	<?php include("snippets/working-on-it.html")?>
+    <div class="container">
+        <div class="alert alert-info">
+            This module is part of the <a href="online-resources.php">Online Resources</a> application; please view the details of that project for information on the Open Source Project.
+        </div>
+    </div>
 	
 	<hr>
 	<div class="container">

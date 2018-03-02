@@ -10,6 +10,11 @@ body {
 	max-height: 250px;
 	margin: auto;
 }
+#largeLogo {
+	padding: 20px 15px 5px;
+	max-height: 350px;
+	margin: auto;
+}
 .jumbotron .h1, .jumbotron h1 {
     font-size: 42px;
     margin-bottom: 20px;
@@ -74,4 +79,76 @@ ul.basic-list > li {
 
 .panel-heading h3 {
 	margin-top: 10px;
+}
+
+.padding-top-bottom-20 {
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.btntbl-row {
+	margin-bottom: 10px;	
+}
+
+.btntbl-div {
+	padding: 10px;
+	min-height: 46px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+
+.btntbl-div > ul {
+	padding-left: 20px;
+	margin-bottom: 0;
+}
+
+.btntbl-heading {
+	margin: 0px;
+}
+
+.project-scheme-1 {
+	background-color: #FF0A24;
+	color: #fff;
+}
+
+.project-scheme-1b {
+	background-color: #FFE6EA;
+}
+
+.project-scheme-2 {
+	background-color: #FF8236;
+	color: #fff;
+}
+
+.project-scheme-2b {
+	background-color: #FFEFE6;
+}
+
+.project-scheme-3 {
+	background-color: #FFB544;
+	color: #fff;
+}
+
+.project-scheme-3b {
+	background-color: #FFF5E6;
+}
+
+
+.project-scheme-4 {
+	background-color: #00CB6C;
+	color: #fff;
+}
+
+.project-scheme-4b {
+	background-color: #E6FFEA;
+}
+
+.project-scheme-5 {
+	background-color: #007CB5;
+	color: #fff;
+}
+
+.project-scheme-5b {
+	background-color: #D3E1EA;
 }

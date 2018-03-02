@@ -15,7 +15,7 @@ include("includes/incHeader.php");
 	</div>
 
 	<div class="container">
-		<div class="callout callout-info">The repositories for this project are available at:
+		<div class="callout callout-info">The code repositories for this project are available at:
 			<ul>
 				<li><a href="https://github.com/OpenCIOC/volunteerclassifications">https://github.com/OpenCIOC/volunteerclassifications</a></li>
 				<li><a href="https://github.com/OpenCIOC/communityinfoclassifications">https://github.com/OpenCIOC/communityinfoclassifications</a></li>

@@ -7,7 +7,7 @@ include ("includes/incHeader.php");
 <div class="jumbotron">
 	<div class="container">
 		<h1><?=$strTitle?></h1>
-		<p>We gratefully acknowledge the past and current contributors to CIOC software and the Open CIOC Project. Are you interested in participating in or sponsoring contributions to the Open CIOC Project? <a href="http://www.kclsoftware.com/contact-us/">Please contact us</a>! Although we don't accept general donations, sponsorship of specific project resource requirements or development projects is appreciated.</p>
+		<p>We gratefully acknowledge the past and current contributors to CIOC software and the Open CIOC Project. Are you interested in participating in or sponsoring contributions to the Open CIOC Project? <a href="http://www.kclsoftware.com/contact-us/">Please contact us</a>! Although we don't accept general financial donations, sponsorship of specific project resource requirements or development projects is welcome.</p>
 	</div>
 </div>
 
@@ -21,10 +21,10 @@ include ("includes/incHeader.php");
 				<li>Canadian Taxonomy Project</li>
 				<li>Christopher Lambacher</li>
 				<li><a href="http://www.hamilton.ca">City of Hamilton</a></li>
-				<li><a href="http://www.communityconnection.net">Community Connection - 211 Simcoe County</a></li>
+				<li><a href="http://www.communityconnection.ca/">Community Connection - 211 Central East Ontario</a></li>
 				<li><a href="http://www.cominfo-ottawa.org">Community Information Centre of Ottawa-Carleton</a></li>
 				<li><a href="http://www.informationhamilton.ca">Community Information Hamilton</a></li>
-				<li><a href="http://www.cioc.ca">Community Information Online Consortium</a></li>
+				<li>Community Information Online Consortium</li>
 				<li>Community Information Partners Peel</li>
 				<li><a href="http://www.clbc.ca">Community Living British Columbia</a></li>
 				<li>Connecting Windsor-Essex</li>
@@ -38,6 +38,7 @@ include ("includes/incHeader.php");
 				<li><a href="http://www.oakville.ca">Town of Oakville</a></li>
 				<li><a href="http://www.trilliumfoundation.org">Ontario Trillium Foundation</a></li>
 				<li>Volunteer @ction Online</li>
+                <li><a href="http://volunteergw.ca/">Volunteer Centre of Guelph-Wellington</a></li>
 				<li><a href="http://www.volunteerhalton.ca">Volunteer Halton</a></li>
 				<li><a href="http://www.volunteerhamilton.on.ca">Volunteer Hamilton</a></li>
 				<li><a href="http://www.volunteergw.ca">Volunteer Guelph-Wellington</a></li>

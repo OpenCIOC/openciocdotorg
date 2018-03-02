@@ -34,20 +34,20 @@ include("includes/incHeader.php");
 			</p>
 			<p><a class="btn btn-default" href="online-resources.php" role="button">View details &raquo;</a></p>
 		</div>
-		<div class="col-md-4 col-sm-6">
-			<h2>Client Tracker</h2>
+        <div class="col-md-4 col-sm-6">
+			<h2>User / API Documentation</h2>
 			<p>
-			<?php include("snippets/ct-desc.html")?>
+			<?php include("snippets/ud-desc.html")?>
 			</p>
-			<p><a class="btn btn-default" href="client-tracker.php" role="button">View details &raquo;</a></p>
+			<p><a class="btn btn-default" href="user-docs.php" role="button">View details &raquo;</a></p>
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-md-4 col-sm-6">
-			<h2>WordPress Plug-ins</h2>
+			<h2>CMS Plug-ins</h2>
 			<p>
-			<?php include("snippets/wp-desc.html")?>
+			<?php include("snippets/cms_desc.html")?>
 			</p>
-			<p><a class="btn btn-default" href="wordpress.php" role="button">View details &raquo;</a></p>
+			<p><a class="btn btn-default" href="cms.php" role="button">View details &raquo;</a></p>
 		</div>
 		<div class="clearfix visible-md-block visible-lg-block"></div>
 		<div class="col-md-4 col-sm-6">
@@ -89,11 +89,11 @@ include("includes/incHeader.php");
 		</div>
 		<div class="clearfix visible-sm-block"></div>
 		<div class="col-md-4 col-sm-6">
-			<h2>User / API Documentation</h2>
+			<h2>Client Tracker</h2>
 			<p>
-			<?php include("snippets/ud-desc.html")?>
+			<?php include("snippets/ct-desc.html")?>
 			</p>
-			<p><a class="btn btn-default" href="user-docs.php" role="button">View details &raquo;</a></p>
+			<p><a class="btn btn-default" href="client-tracker.php" role="button">View details &raquo;</a></p>
 		</div>
 		<div class="clearfix visible-md-block visible-lg-block"></div>
 		<div class="col-md-4 col-sm-6">

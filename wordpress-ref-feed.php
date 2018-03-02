@@ -31,10 +31,10 @@ include ("includes/incHeader.php");
 	<div class="container">
 		<h1><?=$strTitle?></h1>
 		<p>
-  			<?php include("snippets/wp-desc.html")?>
+  			<?php include("snippets/cms_desc.html")?>
   		</p>
 		<p>Below is documentation for configuring WordPress shortcodes for the <?=$strPluginType?>. In addition to the included reference, the <a href="online-resources.php">Online Resources Software</a> includes a built-in shortcode generator tool to facilitate easy creation of shortcodes.</p>
-		<p><a href="wordpress.php" class="btn btn-primary btn-lg">Learn More About CIOC WordPress Plug-ins &raquo;</a></p>
+		<p><a href="cms.php" class="btn btn-primary btn-lg">Learn More About CIOC CMS Plug-ins &raquo;</a></p>
 	</div>
 </div>
 
@@ -71,7 +71,7 @@ include ("includes/incHeader.php");
 	<h2>Installing the Plug-in</h2>
 	<p>Currently, the WordPress Plug-ins are available only through manual install by <a href="<?=$strDownloadZipURL?>">downloading the appropriate zip file(s)</a> from the project repository. Use the <em>Upload Plugin</em> option from within WordPress to install the zip file, then Activate the plug-in to begin using it. Information on manual plug-in installation is available from  <a href="https://codex.wordpress.org/Managing_Plugins">codex.wordpress.org/Managing_Plugins</a></p>
 	<div class="callout callout-info">
-		The repositories for this project are available at:
+		The code repositories for this project are available at:
 		<ul>
 			<li><a href="https://github.com/OpenCIOC/ciocwordpressfeed">https://github.com/OpenCIOC/ciocwordpressfeed</a></li>
 			<li><em>Coming Soon...</em> these plug-ins will be submitted to <a href="https://wordpress.org">WordPress.org</a> to allow for direct download from within WordPress sites.</li>

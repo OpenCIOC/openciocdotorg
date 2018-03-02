@@ -25,12 +25,7 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://kelowna.cioc.ca" target="_blank">Kelowna Community Resources</a>
 						<a class="list-group-item" href="https://oceansidehospice.cioc.ca" target="_blank">Oceanside Hospice Society</a>
 					</div>
-					
-					<h3>Manitoba</h3>
-					<div class="list-group">
-						<a class="list-group-item" href="https://manitoba.cioc.ca" target="_blank">CONTACT Community Information</a>
-					</div>
-						
+										
 					<h3>Ontario</h3>
 					<div class="list-group">
 						<a class="list-group-item" href="http://search.211north.ca" target="_blank">211 North</a>
@@ -53,15 +48,17 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://gbca.cioc.ca" target="_blank">Grey-Bruce Children's Alliance</a>
 						<a class="list-group-item" href="https://greybrucewecare.cioc.ca" target="_blank">Grey-Bruce We C.A.R.E. Project</a>
 						<a class="list-group-item" href="https://guelphnewcomers.cioc.ca" target="_blank">Guelph Wellington Immigration Portal</a>
-						<a class="list-group-item" href="https://seniorsengaged.cioc.ca" target="_blank">Guelph Wellington Seniors' Services Directory</a>
 						<a class="list-group-item" href="https://haliburtonchildren.cioc.ca" target="_blank">Haliburton Children's Services</a>
 						<a class="list-group-item" href="https://haltonchildcare.cioc.ca/csrch.asp" target="_blank">Halton Child Care Services Directory</a>
-						<a class="list-group-item" href="https://halton.cioc.ca" target="_blank">Halton Community Services Directory</a>
+						<a class="list-group-item" href="http://www.hipinfo.ca" target="_blank">Halton Community Services Directory</a>
+						<a class="list-group-item" href="http://seniors.hipinfo.ca" target="_blank">Halton Seniors' Directory</a>
+						<a class="list-group-item" href="http://youth.hipinfo.ca" target="_blank">Halton Youth Directory</a>
 						<a class="list-group-item" href="https://regionofwaterloo.cioc.ca" target="_blank">iSearchMyCommunity.ca - Region of Waterloo</a>
 						<a class="list-group-item" href="https://brucecounty.cioc.ca" target="_blank">Info Bruce County</a>
 						<a class="list-group-item" href="https://centraleastontario.cioc.ca" target="_blank">Info Central East Ontario</a>
 						<a class="list-group-item" href="https://greycounty.cioc.ca" target="_blank">Info Grey County</a>
 						<a class="list-group-item" href="https://huroncounty.cioc.ca" target="_blank">Info Huron County</a>
+						<a class="list-group-item" href="https://infomarkham.cioc.ca" target="_blank">Info Markham</a>
 						<a class="list-group-item" href="https://muskokadistrict.cioc.ca" target="_blank">Info Muskoka District</a>
 						<a class="list-group-item" href="https://parrysounddistrict.cioc.ca" target="_blank">Info Parry Sound District</a>
 						<a class="list-group-item" href="https://perthcounty.cioc.ca" target="_blank">Info Perth County</a>
@@ -89,16 +86,16 @@ include("includes/incHeader.php");
 						<a class="list-group-item" href="https://renfrewcountyconnections.cioc.ca" target="_blank">Renfrew County Connections</a>
 						<a class="list-group-item" href="https://rsfottawa.cioc.ca" target="_blank">R&eacute;pertoire des services en fran&ccedil;ais d'Ottawa</a>
 						<a class="list-group-item" href="https://scsottawa.cioc.ca" target="_blank">Service Coordination des services - Community Programs (Ottawa)</a>
-						<a class="list-group-item" href="https://york.cioc.ca" target="_blank">Settlement and Newcomer Services - York South</a>
-						<a class="list-group-item" href="https://york.cioc.ca" target="_blank">Seniors' Services - York South</a>
+						<a class="list-group-item" href="http://settlement.civc.ca/" target="_blank">Settlement and Newcomer Services - York South</a>
+						<a class="list-group-item" href="http://seniors.civc.ca" target="_blank">Seniors' Services - York South</a>
 						<a class="list-group-item" href="https://quinte.cioc.ca" target="_blank">Volunteer &amp; Information Quinte (Hastings and Prince Edward Counties)</a> 
 						<a class="list-group-item" href="http://www.yorkinfo.ca" target="_blank">York Info</a>
 					</div>
 					
 					<h3>Qu&eacute;bec</h3>
 					<div class="list-group">
-						<a class="list-group-item" href="https://grandby.cioc.ca" target="_blank">211 MRC Haute-Yamaska</a>
-						<a class="list-group-item" href="http://recherche.211quebecregions.ca" target="_blank">211 Qu&eacute;bec R&eacute;gions</a>
+						<a class="list-group-item" href="http://granby.211quebecregions.ca" target="_blank">211 MRC Haute-Yamaska</a>
+						<a class="list-group-item" href="http://www.211quebecregions.ca" target="_blank">211 Qu&eacute;bec R&eacute;gions</a>
 						<a class="list-group-item" href="https://info-aines-mauricie.cioc.ca" target="_blank">Info-A&icirc;n&eacute;s Mauricie</a>
 						<a class="list-group-item" href="https://vieautonomemonteregie.cioc.ca" target="_blank">Vie autonome Mont&eacute;r&eacute;gie</a>
 					</div>

@@ -25,7 +25,7 @@ include("includes/incHeader.php");
 		<div class="callout callout-info">Published user manuals are available at:
 			<ul>
 				<li><a href="https://ciocapidocs.readthedocs.io">https://ciocapidocs.readthedocs.io (CIOC API Reference)</a></li>
-				<li><a href="wordpress.php">http://www.opencioc.org/wordpress.php (WordPress Plugin References)</a></li>
+				<li><a href="cms.php">http://www.opencioc.org/wordpress.php (WordPress Plugin References)</a></li>
 			</ul>
 		</div>
 		

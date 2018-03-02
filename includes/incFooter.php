@@ -1,8 +1,7 @@
 
 <hr>
 <div id="footer" class="container">
-	<div id="siteInfo">&copy; 2015-2016 <a href="http://www.kclsoftware.com">KCL Software Solutions Inc.</a>
-	<br>Presented in co-operation with <a href="http://www.cioc.ca">Community Information Online Consortium (CIOC)</a></div>
+	<div id="siteInfo">&copy; 2015-2017 <a href="http://www.kclsoftware.com">KCL Software Solutions Inc.</a></div>
 </div>
 
 <?php include_once("includes/incAnalytics.php") ?>

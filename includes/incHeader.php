@@ -25,19 +25,24 @@
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
             <li<?php if ($strSection=='Home'): ?> class="active"<?php endif ?>><a href="./">Home</a></li>
-            <li<?php if ($strSection=='About'): ?> class="active"<?php endif ?>><a href="about.php">About</a></li>
+            <li class="dropdown<?php if ($strSection=='About'): ?> active<?php endif ?>">
+            	<a class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" href="#">About<span class="caret"></span></a>
+				<ul class="dropdown-menu">
+					<li><a href="about.php">About the OpenCIOC Project</a></li>
+					<li><a href="vision.php">Project Vision</a></li>
+				</ul>
+			</li>
             <li class="dropdown<?php if ($strSection=='Projects'): ?> active<?php endif ?>">
-            	<a class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" href="#">Projects<span class="caret"></span>
-				</a>
+            	<a class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="button" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
 				<ul class="dropdown-menu">
 					<li>
 					<a href="online-resources.php">Online Resources</a>
 					</li>
 					<li>
-					<a href="client-tracker.php">Client Tracker</a>
+					<a href="user-docs.php">User / API Documentation</a>
 					</li>
 					<li>
-					<a href="wordpress.php">WordPress Plug-ins</a>
+					<a href="cms.php">CMS Plug-ins (WordPress / Joomla)</a>
 					</li>
 					<li>
 					<a href="offline-tools.php">Offline Tools</a>
@@ -55,7 +60,7 @@
 					<a href="i18n.php">Internationaliziation</a>
 					</li>
 					<li>
-					<a href="user-docs.php">User / API Documentation</a>
+					<a href="client-tracker.php">Client Tracker</a>
 					</li>
 				</ul>
 			</li>
